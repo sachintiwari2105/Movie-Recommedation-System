@@ -7,7 +7,5 @@
 ###### ITEM-ITEM COLLABORATIVE FILTERING
 ###### CONTENT BASED FILTERING
 
-#### Model based technique
-###### Matrix Factorization
 
 ##### Dataset Used :- **Movielens 100K**
